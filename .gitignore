@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+# Downloaded datasets
+ly-thuyet/data/
+
+# Third-party reference repo (pushed separately)
+pytorch-deep-learning/
