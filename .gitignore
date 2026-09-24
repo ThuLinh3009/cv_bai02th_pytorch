@@ -4,5 +4,7 @@ __pycache__/
 # Downloaded datasets
 ly-thuyet/data/
 
-# Third-party reference repo (pushed separately)
-pytorch-deep-learning/
+# Downloaded datasets / trained checkpoints / run logs (pytorch-deep-learning reference repo)
+data/
+models/
+runs/
